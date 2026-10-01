@@ -15,10 +15,10 @@ Download from [Releases](../../releases). No installer.
 
 ## Notes
 
-- Portable. Nothing is written outside your user profile.
-- The source sits in this repo next to the build.
+- Nothing is installed - extract the download and run it.
+- Prebuilt binary only. The source is not published in this repository.
 - Questions and bug reports: the [Discord](https://discord.gg/QtyBucygQ6), in `#help` and `#bug-reports`.
 
 ## Disclaimer
 
-This is a system tweak. It changes real Windows settings. Read what it does before running it, and use the tool's own restore option if something behaves unexpectedly. Provided as is, with no warranty.
+An early build of a small game, provided as is, with no warranty. Expect bugs - it is not finished.
